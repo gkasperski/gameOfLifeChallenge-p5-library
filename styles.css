@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#toggle {
+  background: rgba(0, 0, 0, 0.541);
+  color: white;
+}
+
+#randomize {
+  background: rgba(160, 16, 16, 0.541);
+  color: white;
+}
+
+#next {
+  background: rgba(5, 16, 160, 0.541);
+  color: white;
+}
+
+#clear {
+  background: rgba(95, 16, 160, 0);
+  color: black;
+}
